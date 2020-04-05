@@ -12,7 +12,7 @@
 <style type="text/css">
 
 .bgimg {
-    background-image: url('../assets/svg/undraw_statistic_chart_38b6.svg');
+    background-image: url('../assets/svg/chart.svg');
 }
 
 
