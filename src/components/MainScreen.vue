@@ -1,5 +1,5 @@
 <template>
-    <div class="container flex-wrap lg:flex md:mt-16 flex-wrap mx-auto md:px-20">
+    <div class="container flex-wrap lg:flex md:mt-16 flex-wrap mx-auto px-5 md:px-16">
       <div class="lg:w-2/5 bg-top flex-wrap h-auto text-black py-24 px-10">
         <p class="text-5xl font-bold font-serif">Do Business</p>
         <p class="text-xl font-normal text-grey mb-10 ">Doing business in the world is hard. Making a good website to showcase your firm is even harder.</p>
