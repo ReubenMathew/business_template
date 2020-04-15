@@ -5,16 +5,16 @@
             <span class="font-mono text-3xl ">FinTech</span>
         </div>
         <div class="flex flex-wrap md:w-3/4 text-base lg:justify-end items-center h-12">
-            <a class="no-underline text-black border-b-2 hover:border-blue hover:text-blue border-white  tracking-wide font-normal py-3 mr-10" href="#">
+            <a class="transition duration-300 ease-in-out no-underline text-black border-b-2 hover:border-blue hover:text-blue border-white  tracking-wide font-normal py-3 mr-10" href="#">
                 Products
             </a>
-            <a class="no-underline text-black border-b-2 hover:border-blue hover:text-blue border-white  tracking-wide font-normal py-3 mr-10" href="#">
+            <a class="transition duration-300 ease-in-out no-underline text-black border-b-2 hover:border-blue hover:text-blue border-white  tracking-wide font-normal py-3 mr-10" href="#">
                 About us
             </a>
-            <a class="no-underline text-black border-b-2 hover:border-blue hover:text-blue border-white  tracking-wide font-normal py-3 mr-5" href="#">
+            <a class="transition duration-300 ease-in-out no-underline text-black border-b-2 hover:border-blue hover:text-blue border-white  tracking-wide font-normal py-3 mr-5" href="#">
                 Careers
             </a>
-            <a href="#" class="inline-block ml-8 px-5 py-5 leading-none border rounded text-white bg-blue border-blue  hover:text-blue hover:bg-white mt-4 lg:mt-0">
+            <a href="#" class="transition duration-200 ease-in-out inline-block ml-8 px-5 py-5 leading-none border rounded text-white bg-blue border-blue  hover:text-blue hover:bg-white mt-4 lg:mt-0">
                 Get started
             </a>
         </div>

@@ -1,19 +1,9 @@
 <template>
-  <div class="">
+  <div class="app">
     <NavBar/>
     <MainScreen/>
     <Banner/>
-
-    <div class="container py-32 flex-wrap lg:flex md:mt-16 flex-wrap mx-auto px-5 md:px-16">
-      <div class="bgimg1 lg:w-4/6 bg-cover bg-top h-auto text-white py-24 px-10"></div> 
-      <div class="lg:w-2/6 bg-top flex-wrap h-auto text-black py-24 px-4">
-        <p class="text-3xl font-bold font-serif">Do Business</p>
-        <p class="text-lg font-normal text-grey mb-10 ">Doing business in the world is hard. Making a good website to showcase your firm is even harder.</p>
-        <a href="#" class="bg-transparent py-5 px-4 border border-blue text-blue font-bold rounded hover:bg-blue hover:text-white">Analyze your business</a>    
-      </div> 
-
-    </div>
-
+    <InfoContainer/>
     <Footer class="mt-10"/>
 </div>
 
@@ -33,6 +23,7 @@ import NavBar from './components/NavBar'
 import MainScreen from './components/MainScreen'
 import Banner from './components/Banner'
 import Footer from './components/Footer'
+import InfoContainer from './components/InfoContainer'
 
 export default {
   name: 'App',
@@ -40,6 +31,7 @@ export default {
     NavBar,
     MainScreen,
     Banner,
+    InfoContainer,
     Footer,
   }
 }
